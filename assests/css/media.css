@@ -1,0 +1,42 @@
+
+@media screen and (min-width : 0px ) and (max-width : 576px ){
+    h1{ 
+        background-color: #16a51d;
+    }
+}
+
+
+@media screen and (min-width : 576px ) and (max-width :768px ){
+    h1{ 
+        background-color: #e43cb7;
+    }
+}
+
+
+
+@media screen and (min-width : 768px ) and (max-width :992px ){
+    h1{ 
+        background-color: #e61010;
+    }
+}
+
+
+
+@media screen and (min-width : 992px ) and (max-width :1200px ){
+    h1{ 
+        background-color: #6e6a6d;
+    }
+}
+
+
+@media screen and (min-width : 1200px ) and (max-width :1400px ){
+    h1{ 
+        background-color: #e43cb7;
+    }
+}
+
+@media screen and (min-width : 1401px ){
+    h1{ 
+        background-color: #5507cb;
+    }
+}
