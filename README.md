@@ -1,7 +1,7 @@
 # 🚀 Modern Responsive Landing Page
 
 <div align="center">
-  <img src="assets/LANDINGPAGE_VIEW.gif" width="800" alt="Landing Page Demo">
+  <img src="LANDINGPAGE_VIEW.gif" width="800" alt="Landing Page Demo">
 </div>
 
 ## 🌟 Key Features
