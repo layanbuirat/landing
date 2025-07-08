@@ -18,7 +18,7 @@
 
 ## 🎥 Live Preview
 <div align="center">
-  <img src="assets/LANDINGPAGE_VIEW.gif" width="800" alt="Landing Page Walkthrough">
+  <img src="LANDINGPAGE_VIEW.gif" width="800" alt="Landing Page Walkthrough">
   <br>
   [View Full Screen Demo](assets/LANDINGPAGE_VIEW.gif)
 </div>
